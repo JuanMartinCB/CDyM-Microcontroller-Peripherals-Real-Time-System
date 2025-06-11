@@ -1,4 +1,2 @@
 # [CDyM]Microcontroller-Peripherals-Real-Time-System
-Comprehensive AVR microcontroller project featuring LCD display control, 4x4 keypad interface, interrupt handling, timer-based scheduling, finite state machines, and cooperative task planning with real-time clock implementation.
-
-Subject: Digital Circuits and Microcontrollers (CDyM)
+Proyecto integral de microcontrolador AVR que incluye control de display LCD, interfaz con teclado matricial 4x4, manejo de interrupciones, planificación basada en temporizadores, máquinas de estado finito e implementación de reloj en tiempo real.
